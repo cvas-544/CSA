@@ -1,0 +1,1 @@
+ /Users/vasuchukka/StudioProjects/datacapture-flutter-samples/scanit/.dart_tool/flutter_build/e23f845026adbf8fb212d2601cdb7127/native_assets.yaml: 

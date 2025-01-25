@@ -1,0 +1,56 @@
+PODS:
+  - Flutter (1.0.0)
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - scandit-datacapture-frameworks-barcode (7.0.2):
+    - scandit-datacapture-frameworks-core (= 7.0.2)
+    - ScanditBarcodeCapture (= 7.0.2)
+  - scandit-datacapture-frameworks-core (7.0.2):
+    - ScanditCaptureCore (= 7.0.2)
+  - scandit_flutter_datacapture_barcode (7.0.2):
+    - Flutter
+    - scandit-datacapture-frameworks-barcode (= 7.0.2)
+    - scandit_flutter_datacapture_core (= 7.0.2)
+  - scandit_flutter_datacapture_core (7.0.2):
+    - Flutter
+    - scandit-datacapture-frameworks-core (= 7.0.2)
+  - ScanditBarcodeCapture (7.0.2):
+    - ScanditCaptureCore (= 7.0.2)
+  - ScanditCaptureCore (7.0.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - scandit_flutter_datacapture_barcode (from `.symlinks/plugins/scandit_flutter_datacapture_barcode/ios`)
+  - scandit_flutter_datacapture_core (from `.symlinks/plugins/scandit_flutter_datacapture_core/ios`)
+
+SPEC REPOS:
+  trunk:
+    - scandit-datacapture-frameworks-barcode
+    - scandit-datacapture-frameworks-core
+    - ScanditBarcodeCapture
+    - ScanditCaptureCore
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  scandit_flutter_datacapture_barcode:
+    :path: ".symlinks/plugins/scandit_flutter_datacapture_barcode/ios"
+  scandit_flutter_datacapture_core:
+    :path: ".symlinks/plugins/scandit_flutter_datacapture_core/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  scandit-datacapture-frameworks-barcode: 0a4f08e0734a60adec5d7e8654b0001d6b97e419
+  scandit-datacapture-frameworks-core: bc93b2b5885e1ec360fdfa0a76f8289a5bc7e2cd
+  scandit_flutter_datacapture_barcode: c5d5b358521692441589f8117c78ea4a0ffe5906
+  scandit_flutter_datacapture_core: 390240374843217448e9221bdbaec76bef623a15
+  ScanditBarcodeCapture: 377b11af647c7a17892fd97fe7f7b6b9abef1c54
+  ScanditCaptureCore: 6bb533011e93b83e8c9ee4105b285925e2ddcde3
+
+PODFILE CHECKSUM: bc277603e55bdff1388cec0801e91a779de15553
+
+COCOAPODS: 1.16.2
